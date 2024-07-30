@@ -1,0 +1,11 @@
+1)
+To create a new environemnt:-
+>>python -m venv env
+
+2)
+To activate a virtual environment
+>>.\env\Scripts\activate
+
+3)
+To deactivate a virtual environment
+>>deactivate
